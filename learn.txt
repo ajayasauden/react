@@ -1,0 +1,15 @@
+components:function , returns jsx
+props:
+hooks: function made by react developer :starts with use,
+use effect, useState, useReduce
+-react can't chage dynamic value of simple variable
+-so we use useState
+
+
+use-effect:
+hooks that does handel side effects,
+ side effects , state change hiuda ko effect,
+ 3rd party bata kehi lyauna paryo(fetch garda),
+ DOM ma manipulation garda
+
+types:
